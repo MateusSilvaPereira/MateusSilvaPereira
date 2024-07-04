@@ -1,6 +1,6 @@
 
 ## Olá, me chamo Mateus Silva Pereira ✌️ 
-Sou Estudante da linguagem Java.
+Sou Desenvolvedor Java.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
 
