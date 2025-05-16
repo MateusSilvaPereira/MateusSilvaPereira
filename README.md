@@ -62,11 +62,5 @@
 
 ---
 
-## 🐍 Contribuições
-
-![Snake animation](https://github.com/MateusSilvaPereira/MateusSilvaPereira/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🙌 Obrigado por visitar meu perfil!
 Sinta-se à vontade para me chamar para trocar uma ideia ou colaborar em algum projeto. 🚀
