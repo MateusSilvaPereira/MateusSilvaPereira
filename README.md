@@ -31,11 +31,11 @@
 
 - 💼 Desenvolvedor Java Full Stack com experiência no desenvolvimento de aplicações web utilizando tecnologias modernas.
 - 🧠 Apaixonado por resolver problemas com código limpo, boas práticas e foco em performance.
-- 🤝 Já participei de projetos que envolvem **Spring Boot**, **MySQL**, **Angular**, **TypeScript** e outras stacks do ecossistema Java.
+- 🤝 Já participei de projetos que envolvem **Spring Boot**, **MySQL**, **Oracle**, **RabbitMQ**, **React.js**, **Scss**, **Angular**, **TypeScript** e outras stacks do ecossistema Java.
 
 ---
 
-## 🚀 Tecnologias que estudo e utilizo
+## 🚀 Tecnologias que utilizo
 
 ### 💻 Back-end
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
